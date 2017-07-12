@@ -1,2 +1,2 @@
 # Nucleus
-CTS microservices with integrated string operations
+CTS Microservice with integrated citable analysis.
